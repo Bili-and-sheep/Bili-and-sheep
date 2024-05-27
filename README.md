@@ -1,4 +1,4 @@
-# 👋 Salut, je suis Evangelyne ou Eliott selon les cas!
+# 👋 Salut, moi c'est Evangelyne ou Eliott selon les cas!
 
 ### 🌐 Développeur Web Full Stack
 
