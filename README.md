@@ -73,6 +73,6 @@ Bienvenue sur mon profil GitHub ! Je suis un développeur web front-end et back-
 </a>
 
 
-
+<br></br>
 N'hésitez pas à explorer mes dépôts et à me contacter pour des collaborations ou des opportunités de travail. Merci d'étre passez par ici !
 
