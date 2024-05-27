@@ -49,29 +49,30 @@ Bienvenue sur mon profil GitHub ! Je suis un développeur web front-end et back-
 ## 📫 Me contacter
 
 <a href="https://www.linkedin.com/in/eliott-andré">
-  <img align="left" alt="Eliott's Linkedin" width="100px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img align="left" alt="Eliott's Linkedin" width="100px" height="50px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 
 <a href="mailto:eliottandre01@gmail.com">
-  <img align="left" alt="Eliott's Linkedin" width="100px" src="https://img.shields.io/badge/mail-0077B5?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img align="left" alt="mail to " width="100px" height="50px" src="https://img.shields.io/badge/mail-E76E29?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <br>
 
-<a href="https://www.linkedin.com/in/eliott-andré">
-  <img align="left" alt="Eliott's Linkedin" width="100px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href="https://discordapp.com/users/424662360729583626">
+  <img align="left" alt="Eliott's discord eliottandre01@gmail.com" width="100px" height="50px" src="https://img.shields.io/badge/Discord-51007A?style=for-the-badge&logo=Discord&logoColor=white" />
 </a>
 <br>
 
-<a href="https://www.linkedin.com/in/eliott-andré">
-  <img align="left" alt="Eliott's Linkedin" width="100px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href="https://twitter.com/EliottAndre3">
+  <img align="left" alt="Eliott's Twitter" width="100px" height="50px" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white" />
 </a>
 <br>
 
-- **Email**: [eliottandre01@gmail.com](mailto:eliottandre01@gmail.com)
-- **Discord**: [eliottandre](https://discordapp.com/users/424662360729583626)
-- **Twitter**: [EliottAndre3](https://twitter.com/EliottAndre3)
-- **Instagram**: [eliott.andre](https://www.instagram.com/eliott.andre/)
+<a href="https://www.instagram.com/eliott.andre/">
+  <img align="left" alt="Eliott's Instagram" width="100px" height="50px" src="https://img.shields.io/badge/Instagram-FCAF45?style=for-the-badge&logo=Instagram&logoColor=white" />
+</a>
+<br>
+
 
 N'hésitez pas à explorer mes dépôts et à me contacter pour des collaborations ou des opportunités de travail. Merci d'étre passez par ici !
 
