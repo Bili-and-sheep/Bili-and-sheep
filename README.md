@@ -1,17 +1,17 @@
-# 👋 Salut, je suis Omega!
+# 👋 Salut, je suis Evangelyne ou Eliott selon les cas!
 
 ### 🌐 Développeur Web Full Stack
 
-Bienvenue sur mon profil GitHub ! Je suis un développeur web passionné avec une maîtrise des technologies front-end et back-end. Voici un aperçu de mes compétences et des technologies que j'utilise.
+Bienvenue sur mon profil GitHub ! Je suis un développeur web front-end et back-end. Voici un aperçu de ce que je sais faire :
 
 ## 🚀 Compétences
 
 ### Front-end
 - **HTML5**
 - **CSS3**
-- **JavaScript (ES6+)**
 - **React**
 - **Tailwind CSS**
+- **Boostrap CSS**
 
 ### Back-end
 - **PHP**
@@ -20,6 +20,8 @@ Bienvenue sur mon profil GitHub ! Je suis un développeur web passionné avec un
 ### Bases de données
 - **SQL**
 - **MySQL**
+- **MongoDB**
+
 
 ### Autres compétences
 - **Git & GitHub** pour le contrôle de version
@@ -35,7 +37,7 @@ Bienvenue sur mon profil GitHub ! Je suis un développeur web passionné avec un
 - **Tailwind CSS** pour un design rapide et efficace.
 
 ## 📫 Me contacter
-- **Email**: [zitoune69420@protonmail.com](mailto:zitoune69420@protonmail.com)
-- **Discord**: [omegazonleretour](https://discordapp.com/users/1122447426570174555)
+- **Email**: [zitoune69420@protonmail.com](mailto:eliottandre01@gmail.com)
+- **Discord**: [omegazonleretour](https://discordapp.com/users/424662360729583626)
 
 N'hésitez pas à explorer mes dépôts et à me contacter pour des collaborations ou des opportunités de travail. Merci de votre visite !
