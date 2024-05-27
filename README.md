@@ -47,6 +47,11 @@ Bienvenue sur mon profil GitHub ! Je suis un développeur web front-end et back-
 
 
 ## 📫 Me contacter
+
+<a href="https://www.linkedin.com/in/eliott-andré">
+  <img align="left" alt="Eliott's Linkedin" width="100px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
 - **Email**: [eliottandre01@gmail.com](mailto:eliottandre01@gmail.com)
 - **Discord**: [eliottandre](https://discordapp.com/users/424662360729583626)
 - **Twitter**: [EliottAndre3](https://twitter.com/EliottAndre3)
