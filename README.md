@@ -17,7 +17,7 @@ Bienvenue sur mon profil GitHub ! Je suis un développeur web front-end et back-
 **<img src="https://img.shields.io/badge/JavaScript-ES6%2B-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/TypeScript-ES6%2B-F7DF1E?style=for-the-badge&logo=TypeScript&logoColor=black"/>**
 <br>
 
-**<img src="https://img.shields.io/badge/VueJS-ES6%2B-F7DF1E?style=for-the-badge&logo=VueJS&logoColor=black"/> <img src="https://img.shields.io/badge/ViteJS-ES6%2B-F7DF1E?style=for-the-badge&logo=ViteJS&logoColor=black"/>**
+**<img src="https://img.shields.io/badge/VueJS-ES6%2B-F7DF1E?style=for-the-badge&logo=Vue&logoColor=black"/> <img src="https://img.shields.io/badge/Vite-ES6%2B-F7DF1E?style=for-the-badge&logo=Vite&logoColor=black"/>**
 <br>
 
 - **Boostrap CSS**
