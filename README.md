@@ -14,10 +14,10 @@ Bienvenue sur mon profil GitHub ! Je suis un développeur web front-end et back-
 **<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />**
 <br>
 
-**<img src="https://img.shields.io/badge/JavaScript-ES6%2B-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-ES6%2B-F7DF1E?style=for-the-badge&logo=TypeScript&logoColor=white"/>**
+**<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-F7DF1E?style=for-the-badge&logo=TypeScript&logoColor=white"/>**
 <br>
 
-**<img src="https://img.shields.io/badge/Vue.JS-ES6%2B-F7DF1E?style=for-the-badge&logo=Vue.JS&logoColor=white"/> <img src="https://img.shields.io/badge/Vite-ES6%2B-F7DF1E?style=for-the-badge&logo=Vite&logoColor=white"/>**
+**<img src="https://img.shields.io/badge/Vue.JS-F7DF1E?style=for-the-badge&logo=Vue.JS&logoColor=white"/> <img src="https://img.shields.io/badge/Vite-F7DF1E?style=for-the-badge&logo=Vite&logoColor=white"/>**
 <br>
 
 **<img src="https://img.shields.io/badge/bootstrap-1572B6?style=for-the-badge&logo=bootstrap&logoColor=white" />**
