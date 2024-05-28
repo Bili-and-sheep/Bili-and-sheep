@@ -8,7 +8,8 @@ Bienvenue sur mon profil GitHub ! Je suis un développeur web front-end et back-
 
 ### Front-end
 
-- **<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />**
+**<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />**
+
 - **CSS3**
 - **JavaScript / TypeScript**
 - **Vue / Rapid JS**
