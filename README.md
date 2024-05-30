@@ -36,7 +36,7 @@ Bienvenue sur mon profil GitHub ! Je suis un développeur web front-end et back-
 
 ### Autres compétences
 
-- **<img src="https://img.shields.io/badge/GitHub-3FA037?style=for-the-badge&logo=GitHub&logo=Git&logo=GitLab&logoColor=white"/><br>**
+- **<img src="https://img.shields.io/badge/GitHub-3FA037?style=for-the-badge&logo=GitHub&logoColor=white"/><br>**
 - **Git / GitHub / GitLab** pour le contrôle de version
 - **Responsive Design** pour des interfaces utilisateur adaptatives
 - **Model Vue Controller**
