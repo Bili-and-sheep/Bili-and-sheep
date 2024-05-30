@@ -30,8 +30,8 @@ Bienvenue sur mon profil GitHub ! Je suis un développeur web front-end et back-
 
 ### Bases de données
 
-- **<img src="https://img.shields.io/badge/SQL-ffb0c0?style=for-the-badge&logo=SQL&logoColor=white" /><br>**
-- **<img src="https://img.shields.io/badge/MySQL-3A4857?style=for-the-badge&logo=MySQL&logoColor=white"/><img src="https://img.shields.io/badge/PhpMyAdmin-3A4857?style=for-the-badge&logo=PhpMyAdmin&logoColor=white"/><br>**
+- **<img src="https://img.shields.io/badge/MySQL-3A4857?style=for-the-badge&logo=MySQL&logoColor=white"/><br>**
+- **<img src="https://img.shields.io/badge/PhpMyAdmin-3A4857?style=for-the-badge&logo=PhpMyAdmin&logoColor=white"/><br>**
 - **<img src="https://img.shields.io/badge/MongoDB-3A4857?style=for-the-badge&logo=MongoDB&logoColor=white"/><br>**
 
 ### Autres compétences
