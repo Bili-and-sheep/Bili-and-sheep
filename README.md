@@ -26,7 +26,7 @@ Bienvenue sur mon profil GitHub ! Je suis un développeur web front-end et back-
 ### Back-end
 
 - **<img src="https://img.shields.io/badge/PHP-ffb0c0?style=for-the-badge&logo=PHP&logoColor=white" /><br>**
-- **<img src="https://img.shields.io/badge/Symfony-3A4857?style=for-the-badge&logo=Symfony&logoColor=white"/><br>**
+- **<img src="https://img.shields.io/badge/Symfony-300e4a?style=for-the-badge&logo=Symfony&logoColor=white"/><br>**
 
 ### Bases de données
 
